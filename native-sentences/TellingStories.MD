@@ -103,6 +103,30 @@ This section provides authentic examples of storytelling in German, with sentenc
 
 ---
 
+### **Example 17**
+**German**: Ich konnte es kaum glauben.  
+**English**: I could hardly believe it.
+
+---
+
+### **Example 18**
+**German**: Ich habe ganz vergessen zu erwähnen, dass ...  
+**English**: I totally forgot to mention that ...
+
+---
+
+### **Example 19**
+**German**: Natürlich konnte ich nicht wissen, dass...  
+**English**: Ofcourse I couldn't know that...
+
+---
+
+### **Example 20**
+**German**: Na ja, schließlich sind wir dann nach Hause gegangen.  
+**English**: Well, eventually we went home.
+
+---
+
 ## 🔗 Resources
 - [Speak German like Native by Igno Depner](https://www.amazon.de/Speak-German-like-Native-Conversation/dp/1530537533)
 
